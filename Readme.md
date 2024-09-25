@@ -9,6 +9,6 @@ O curso de criação de sites tem um projeto, que será atualizado constantement
 
 ## Print base do projeto:
 
-<img src="" alt="Imagem print do projeto blog do joao">
+<img src="https://raw.githubusercontent.com/JoaoIto/joaoitoTechInclusao/refs/heads/main/github/images/print.png" alt="Imagem print do projeto blog do joao">
 
 ---
